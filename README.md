@@ -9,6 +9,8 @@ This is a android implementation for MR Processor...
 
 ## Contributors
 
+### 이인찬 (인성데이타)
+
 ### 우충욱 (인성데이타)
 
 ### 이성훈 (인성데이타)
